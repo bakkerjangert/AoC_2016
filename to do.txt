@@ -1,0 +1,4 @@
+Day 11b --> Optimize using np or better even, encoded strings ('01231230') with equipment positions instead of whole layout
+Day 13 --> Write A* search algorithm to find solution in maze (now solved manually in Excel)
+Day 18 --> optimize part b by finding pattern in lines
+Day 19 --> optimize part b
